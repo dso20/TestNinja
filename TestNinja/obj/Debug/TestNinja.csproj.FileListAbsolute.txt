@@ -11,3 +11,6 @@
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:\Users\Dav\Desktop\NinjaTest\source-code-starter\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.csprojResolveAssemblyReference.cache
+C:\Users\Dav\Desktop\NinjaTest\source-code-starter\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Users\Dav\Desktop\NinjaTest\source-code-starter\source-code-starter\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
