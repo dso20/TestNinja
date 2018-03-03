@@ -4,9 +4,9 @@ namespace TestNinja.Fundamentals
 {
     public class PhoneNumber
     {
-        public string Area { get; set; }
-        public string Major { get; set; }
-        public string Minor { get; set; }
+        public string Area { get; }
+        public string Major { get; }
+        public string Minor { get; }
 
         private PhoneNumber(string area, string major, string minor)
         {
@@ -32,7 +32,7 @@ namespace TestNinja.Fundamentals
 
         public override string ToString()
         {
-            return ""; // String.Format($"({Area}){Major}-{Minor}");
+            return String.Format($"({Area}){Major}-{Minor}");
         }
     }
 }

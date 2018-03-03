@@ -4,16 +4,18 @@ namespace TestNinja.Mocking
 {
     public class EmployeeController
     {
-        private IEmployeeRepo _repo;
+        private EmployeeContext _db;
 
-        public EmployeeController(IEmployeeRepo repo)
+        public EmployeeController()
         {
-            _repo = repo;
+            _db = new EmployeeContext();
         }
 
         public ActionResult DeleteEmployee(int id)
         {
-            _repo.DeleteEmployy(id);
+            var employee = _db.Employees.Find(id);
+            _db.Employees.Remove(employee);
+            _db.SaveChanges();
             return RedirectToAction("Employees");
         }
 
