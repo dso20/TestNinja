@@ -3,6 +3,22 @@
   <component name="ContentModelStore">
     <e p="C:\Users\Dav\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_TestNinja.-923064132.00" t="ExcludeRecursive" />
     <e p="C:\Users\Dav\Desktop\NinjaTest\source-code-starter\source-code-starter\TestNinja" t="IncludeFlat">
+      <e p="NinjaTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DemeritPointsCalculatorTests.cs" t="Include" />
+        <e p="EmployeeControlerTests.cs" t="Include" />
+        <e p="FakeFileReader.cs" t="Include" />
+        <e p="FizzBuzzTests.cs" t="Include" />
+        <e p="InstallerHelperTests.cs" t="Include" />
+        <e p="NinjaTest.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="StackTests.cs" t="Include" />
+        <e p="VideoServiceTests.cs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="TestNinja" t="IncludeRecursive">
         <e p="App.config" t="Include" />
@@ -22,9 +38,13 @@
         <e p="Mocking" t="Include">
           <e p="BookingHelper.cs" t="Include" />
           <e p="EmployeeController.cs" t="Include" />
+          <e p="EmployeeRepo.cs" t="Include" />
+          <e p="FileDownloader.cs" t="Include" />
+          <e p="FileReader.cs" t="Include" />
           <e p="InstallerHelper.cs" t="Include" />
           <e p="OrderService.cs" t="Include" />
           <e p="Product.cs" t="Include" />
+          <e p="VideoRepository.cs" t="Include" />
           <e p="VideoService.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive" />
