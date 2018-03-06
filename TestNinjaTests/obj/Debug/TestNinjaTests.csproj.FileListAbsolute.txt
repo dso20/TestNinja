@@ -1,0 +1,13 @@
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\bin\Debug\TestNinjaTests.dll
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\bin\Debug\TestNinjaTests.pdb
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\bin\Debug\nunit.framework.dll
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\bin\Debug\TestNinja.dll
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\bin\Debug\EntityFramework.dll
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\bin\Debug\TestNinja.pdb
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\bin\Debug\nunit.framework.xml
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\bin\Debug\EntityFramework.xml
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\obj\Debug\TestNinjaTests.csprojResolveAssemblyReference.cache
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\obj\Debug\TestNinjaTests.dll
+C:\Users\Dav\Desktop\retest\TestNinja\TestNinjaTests\obj\Debug\TestNinjaTests.pdb
